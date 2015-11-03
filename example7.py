@@ -14,6 +14,4 @@ cat.display()
 lion.display()
 lion.addTrick('trip you')
 cat.addTrick('purr')
-print(cat.tricks)
-print(lion.tricks)
-print(lion.name)
+

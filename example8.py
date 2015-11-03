@@ -13,7 +13,4 @@ class Fibonacci:
         self.a, self.b = self.b, self.a + self.b
         return fib
 
-for i in Fibonacci(500):
-    print(i)
 
-    
